@@ -1,0 +1,17 @@
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\bin\Debug\net8.0\VendasAPI.Data.deps.json
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\bin\Debug\net8.0\VendasAPI.Data.runtimeconfig.json
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\bin\Debug\net8.0\VendasAPI.Data.dll
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\bin\Debug\net8.0\VendasAPI.Data.pdb
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\bin\Debug\net8.0\VendasAPI.Entities.dll
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\bin\Debug\net8.0\VendasAPI.Entities.pdb
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\obj\Debug\net8.0\VendasAPI.Data.csproj.AssemblyReference.cache
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\obj\Debug\net8.0\VendasAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\obj\Debug\net8.0\VendasAPI.Data.AssemblyInfoInputs.cache
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\obj\Debug\net8.0\VendasAPI.Data.AssemblyInfo.cs
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\obj\Debug\net8.0\VendasAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\obj\Debug\net8.0\VendasAP.A1B0B159.Up2Date
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\obj\Debug\net8.0\VendasAPI.Data.dll
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\obj\Debug\net8.0\refint\VendasAPI.Data.dll
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\obj\Debug\net8.0\VendasAPI.Data.pdb
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\obj\Debug\net8.0\VendasAPI.Data.genruntimeconfig.cache
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Data\obj\Debug\net8.0\ref\VendasAPI.Data.dll

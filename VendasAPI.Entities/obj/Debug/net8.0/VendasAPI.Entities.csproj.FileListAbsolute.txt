@@ -1,0 +1,11 @@
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Entities\bin\Debug\net8.0\VendasAPI.Entities.deps.json
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Entities\bin\Debug\net8.0\VendasAPI.Entities.dll
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Entities\bin\Debug\net8.0\VendasAPI.Entities.pdb
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Entities\obj\Debug\net8.0\VendasAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Entities\obj\Debug\net8.0\VendasAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Entities\obj\Debug\net8.0\VendasAPI.Entities.AssemblyInfo.cs
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Entities\obj\Debug\net8.0\VendasAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Entities\obj\Debug\net8.0\VendasAPI.Entities.dll
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Entities\obj\Debug\net8.0\refint\VendasAPI.Entities.dll
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Entities\obj\Debug\net8.0\VendasAPI.Entities.pdb
+C:\Users\m4r6i0\source\repos\VendasAPI\VendasAPI.Entities\obj\Debug\net8.0\ref\VendasAPI.Entities.dll
